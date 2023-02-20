@@ -1,0 +1,46 @@
+body{
+    background-color: darkslategrey;
+    
+}
+
+
+
+
+
+.userDetails{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: olive;
+    padding: 10rem;
+    margin-left: 35rem;
+    /* margin-right: 25rem; */
+    margin-top: 10rem;
+    width: 10rem;
+    /* background-color: greenyellow; */
+    
+}
+
+.input{
+    width: 20rem;
+    height: 2rem;
+    border-radius: 99px;
+}
+
+.input:hover{
+  width: 210%;
+  
+}
+
+.btn1{
+    width: 10rem;
+    height: 2rem;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+}
+.btn1:hover{
+    width: 110%;
+}
